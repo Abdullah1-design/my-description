@@ -1,1 +1,2 @@
-# my-description
+Ben Seyyah.
+Kodlamada yeniyim.
