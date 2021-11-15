@@ -1,2 +1,2 @@
-Ben Seyyah.
-Kodlamada yeniyim.
+Ben Seyyah ve
+kodlamada yeniyim.
